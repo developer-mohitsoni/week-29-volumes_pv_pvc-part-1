@@ -10,7 +10,7 @@ spec:
   storageClassName: nfs
   nfs:
     path: /week-29
-    server: 13.233.15.214
+    server: 15.207.98.31
 ---
 apiVersion: v1
 kind: PersistentVolumeClaim
